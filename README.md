@@ -14,6 +14,27 @@ This repository contains the essential knowledge required for implementing the M
 - [Common Patterns](common_patterns.md) - Shared implementation patterns across components
 - [Component Knowledge Maps](components/) - Component-specific reference materials
 - [Implementation Templates](templates/) - Templates for implementation requests
+- [Implementation Guides](implementation_guides/) - Detailed implementation guides with code examples
+
+## Knowledge Structure
+
+This repository is organized to optimize token efficiency while providing comprehensive implementation guidance:
+
+### 1. Knowledge Maps
+Concise reference documents that provide structured information about:
+- Interfaces and their methods
+- Models and their properties
+- Validation rules
+- Test patterns
+
+### 2. Implementation Guides
+Detailed guides with concrete code examples for:
+- [Mock Implementation Patterns](implementation_guides/mock_implementation_patterns.md) - Creating effective mocks for testing
+- [Position Tracking Fixtures](implementation_guides/position_tracking_fixtures.md) - Test fixtures for position tracking
+- [Indian Market Validation](implementation_guides/indian_market_validation_part1.md) - Comprehensive validation for Indian markets
+
+### 3. Templates
+Standardized formats for implementation requests that minimize token usage.
 
 ## Implementation Process
 
